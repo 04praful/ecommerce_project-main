@@ -1,0 +1,24 @@
+.addBtn{
+    margin: 0.1rem !important;
+    
+}
+
+.qty::-webkit-inner-spin-button,
+.qty::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.qty{
+    margin-left: 3rem !important;
+    
+}
+
+.cardImg{
+   width: 17.8rem;
+   height: 18rem;
+
+}
+
+.addedAlert{
+  position: absolute !important;
+}
